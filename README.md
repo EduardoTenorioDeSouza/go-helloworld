@@ -1,4 +1,4 @@
-# Simpls aplicação golang com Docker multistage com Scratch.
+# Simples aplicação golang com Docker multistage com Scratch.
 
 ## Docker build
 
