@@ -1,0 +1,1 @@
+# Exemplo de aplicação golang com Docker Scratch.
